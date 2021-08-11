@@ -12,5 +12,6 @@ public class EmailService {
     EmailRepository emailRepository;
 
     public void sendEmail(EmailModel emailModel) {
+
     }
 }
